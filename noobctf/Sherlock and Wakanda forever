@@ -1,0 +1,27 @@
+Downloaded the chall.zip file, and unzipped it.
+Went into it, immediately panicked after seeing waht was in it.
+Went into the first folder, realized it was just steganography. 
+Phew, however I pray I don't have to suffer through doing it to over 50 images.
+Found in first file: "Secret: TWF0Z"
+Went into second, found another "Secret: SwgU"
+I recognize this, seems like a 7rot cipher, but can't be sure. Now going to keep hold of all the secrets.
+
+{
+	0: TWF0Z
+	1: SwgU
+	10: CBjY
+	100: WQgd
+	101: Ghhd
+	102: D8gb
+	103: nZtL
+	11: W4gY
+	12: mUgd
+	13: Ghpc
+	14: yBly
+}
+
+Just remembered it said it's made to improve your scripting and Python skills.
+Uh oh, I may be a Python specialist (though I'm shit), but I'm scared.
+They're in binary code I think
+Nope.
+Looks closer to hexadecimal? Oh god no.
